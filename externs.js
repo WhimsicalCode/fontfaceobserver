@@ -4,7 +4,7 @@
  * @param {string} family
  * @param {Object} descriptors
  */
-var FontFaceObserver = function (family, descriptors) {};
+var FontFaceObserver = function (family, descriptors, context) {};
 
 /**
  * @param {string=} opt_text
